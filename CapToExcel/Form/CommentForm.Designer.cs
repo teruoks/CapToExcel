@@ -1,4 +1,4 @@
-﻿namespace WindowCapture
+﻿namespace CapToExcel
 {
     partial class CommentForm
     {

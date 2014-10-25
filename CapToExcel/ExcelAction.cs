@@ -2,7 +2,7 @@
 using System.Text;
 using Microsoft.Office.Interop.Excel;
 
-namespace WindowCapture
+namespace CapToExcel
 {
     /// <summary>
     /// Excel操作クラス

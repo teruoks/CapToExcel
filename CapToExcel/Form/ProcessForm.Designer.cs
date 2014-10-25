@@ -1,4 +1,4 @@
-﻿namespace WindowCapture
+﻿namespace CapToExcel
 {
     partial class ProcessForm
     {
@@ -34,19 +34,17 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(34, 29);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
+            this.ClientSize = new System.Drawing.Size(0, 0);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "ProcessForm";
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
-            this.Text = "ProcessForm";
             this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
     }
 }

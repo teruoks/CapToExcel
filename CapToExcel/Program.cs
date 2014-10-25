@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace WindowCapture
+namespace CapToExcel
 {
     static class Program
     {
